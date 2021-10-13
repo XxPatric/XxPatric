@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-## About me:
+## About me: 
 
 I dream of being Fullstack Developer :smile:
 
