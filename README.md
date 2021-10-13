@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/XxPatric)](https://github.com/XxPatric)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patric-mariano-494677b8/)](https://www.linkedin.com/in/patric-mariano-494677b8/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patric-mariano-11326/)](https://www.linkedin.com/in/patric-mariano-11326/)
 ## About me: 
 
 I dream of being Fullstack Developer :smile:
