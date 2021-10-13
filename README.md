@@ -31,11 +31,6 @@ I Love code and create new stuff, i like too much to discover new technologies a
 
 ### Others: <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
 
-https://github-readme-stats.vercel.app/api?username={Xxpatric}
-
-https://github-readme-stats.vercel.app/api/top-langs/?username={Xxpatric}
-
-https://github-readme-streak-stats.herokuapp.com/?user={Xxpatric}
 
 
 
