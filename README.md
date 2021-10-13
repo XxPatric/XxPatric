@@ -30,3 +30,12 @@ I Love code and create new stuff, i like too much to discover new technologies a
 ### Design: <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15" /> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
 
 ### Others: <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
+
+https://github-readme-stats.vercel.app/api?username={Xxpatric}
+
+https://github-readme-stats.vercel.app/api/top-langs/?username={Xxpatric}
+
+https://github-readme-streak-stats.herokuapp.com/?user={Xxpatric}
+
+
+
